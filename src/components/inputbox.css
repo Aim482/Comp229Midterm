@@ -1,0 +1,38 @@
+.input{
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    block-size: 5px;
+    align-items: center;
+    display: inline;
+}
+
+.product{
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    block-size: 50px;
+    align-items: center;
+}
+
+
+.inputbox{
+    border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+}
+
+heading{
+    text-align: center;
+    align-self: center;
+    
+  }
+
+  .submit{
+    background-color: rgb(44, 44, 95);
+    padding-right: 5px;
+    color: white;
+  }
+
+  .canecl{
+    float: right;
+  }
